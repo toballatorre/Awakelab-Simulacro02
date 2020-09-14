@@ -3,7 +3,7 @@
 Un negocio de ventas mayoristas posee una base de datos que almacena cada una de las facturas
 que se emiten, la fecha en que esto se hace, y los productos que se asocian a cada una.
 El modelo de datos utilizado es el siguiente:
-![img del modelo]()
+![img del modelo](https://github.com/toballatorre/Awakelab-Simulacro02/blob/master/src/main/webapp/resources/img/modelo.jpg)
 A través del modelo anterior, se debe crear un portal web compuesto por dos secciones:
 - Búsqueda de factura por ID: se debe considerar una caja de texto y un botón; al presionar
 el botón se desplegará en la parte inferior de la página o en una página adicional el detalle
